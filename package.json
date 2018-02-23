@@ -39,6 +39,6 @@
     "repository" :
     {
         "type" : "git",
-        "url" : "git@github.com:arunoda/node-simple-xmpp.git"
+        "url" : "git@github.com:orlac/node-simple-xmpp.git"
     }
 }
